@@ -1,0 +1,17 @@
+models/
+*.pt
+
+input_videos/
+output_videos/
+*.mp4
+*.avi
+
+stubs/
+*.pkl
+
+__pycache__/
+*.pyc
+
+venv/
+.env
+
